@@ -6,7 +6,7 @@ A few R scripts to work with geographic data.
 
 ## Files
 
-[ga_fri.R](https://github.com/geographyclub/r-for-mapmakers/blob/master/dem_crop_persp3d.R)  -- import and plot dems.
+[dem_crop_persp3d.R](https://github.com/geographyclub/r-for-mapmakers/blob/master/dem_crop_persp3d.R)  -- import and plot dems.
 
 [ga_fri.R](https://github.com/geographyclub/r-for-mapmakers/blob/master/ga_fri.R)  -- genetic algorithm to find optimal forest inventories.
 
